@@ -1,7 +1,8 @@
-# <span style="display: flex; align-items: center; gap: .25em"><img src="logo.png" width="50"> BetterEdit</span>
+# <span style="display: flex; align-items: center; gap: .25em"><img src="logo.png" width="50"> Kernel</span>
 
 > [!WARNING]
-> **BetterEdit is no longer being developed!** I have [retired from GD modding](https://hjfod.github.io/blog/so-long-and-thanks-for-all-the-fish.html). I'd recommend using alternatives like [Tinker](https://geode-sdk.org/mods/alphalaneous.tinker) instead. Thank you for the years of love and support <3
+> **Kernel** is a fork of legendary **[BetterEdit](https://github.com/HJfod/BetterEdit)**
+> You can support HJFod (Original **BetterEdit** author on [Ko-Fi](https://ko-fi.com/hjfod)!
 
 <span>
   <a href="LICENSE"><img alt="License Badge" src="https://img.shields.io/github/license/HJfod/BetterEdit?label=license&style=flat-square" /></a>
@@ -21,9 +22,7 @@ A mod that makes the <a href="https://store.steampowered.com/app/322170/Geometry
 
 ## :rocket: Installation
 
-You can install BetterEdit through [Geode](https://geode-sdk.org). After installing Geode, simply search for the mod on the in-game browser, and click install.
-
-**BetterEdit needs the following mods to also be installed:**
+**Kernel needs the following mods to also be installed:**
 
  * [NodeIDs](https://geode-sdk.org/mods/geode.node-ids)
  * [GMD API](https://geode-sdk.org/mods/hjfod.gmd-api)
@@ -32,7 +31,7 @@ You can install BetterEdit through [Geode](https://geode-sdk.org). After install
 
 ## :beetle: Bug reports & feature suggestions
 
-You can use [Issues](https://github.com/HJfod/BetterEdit/issues) to report bugs and suggest new features! Click [here](https://github.com/HJfod/BetterEdit/issues/new/choose) to open up a new issue.
+You can use [Issues](https://github.com/oki333ed/Kernel/issues) to report bugs and suggest new features! Click [here](https://github.com/oki333ed/Kernel/issues/new/choose) to open up a new issue.
 
 Please use the correct templates for your issue - badly formatted issues will be closed.
 
@@ -41,24 +40,6 @@ Please use the correct templates for your issue - badly formatted issues will be
 | Bug Report          | Reporting a bug with the mod, such as some feature not working as expected, some buttons being misplaced, etc. |
 | Crash Report        | Reporting a crash with the mod (i.e. when the game closes unexpectedly) |
 | Suggestion          | Suggesting a new feature to be added to the mod / changes to an existing feature |
-
-## :speech_balloon: Contact
-
-BetterEdit has a [Discord server](https://discord.gg/rPvFW4jQTJ); this is where you can go if you need any further information, wish to ask questions, or anything else!
-
-[<img alt="BetterEdit Discord Server Banner" src="https://discordapp.com/api/guilds/1087452688956006471/widget.png?style=banner2" />](https://discord.gg/rPvFW4jQTJ)
-
-You can also contact the developer of the mod (HJfod) directly through Discord or Twitter/X.
-
- * Discord: `@hjfod`
- * Twitter: [`hjfod`](https://twitter.com/hjfod)
-
-## :euro: Support
-
-BetterEdit's development is supported via [donations on my Ko-fi](https://ko-fi.com/hjfod)!
-
-> [!NOTE]
-> Supporters used to receive exclusive features, however these features have since been made free. You may still support if you want to say thanks for my work on BetterEdit and Geode, but please be aware that this will NOT come with any exclusive features anymore!
 
 ## :balance_scale: Licensing
 
