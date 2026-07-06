@@ -7,13 +7,13 @@
 <span>
   <a href="LICENSE"><img alt="License Badge" src="https://img.shields.io/github/license/oki333ed/Kernel?label=license&style=flat-square" /></a>
   &ensp;&macr;&ensp;
-  <a href="https://github.com/oki333ed/Kernel/issues"><img alt="GitHub Issues - Open" src="https://img.shields.io/github/issues/HJfod/BetterEdit?style=flat-square" /></a>
-  <a href="https://github.com/oki333ed/Kernel/issues"><img alt="GitHub Issues - Closed" src="https://img.shields.io/github/issues-closed/HJfod/BetterEdit?style=flat-square" /></a>
+  <a href="https://github.com/oki333ed/Kernel/issues"><img alt="GitHub Issues - Open" src="https://img.shields.io/github/issues/HJfod/Kernel?style=flat-square" /></a>
+  <a href="https://github.com/oki333ed/Kernel/issues"><img alt="GitHub Issues - Closed" src="https://img.shields.io/github/issues-closed/oki333ed/Kernel?style=flat-square" /></a>
   &ensp;&macr;&ensp;
-  <a href="https://github.com/oki333ed/Kernel/pulls"><img alt="GitHub Pull Requests - Open" src="https://img.shields.io/github/issues-pr/HJfod/BetterEdit?style=flat-square" /></a>
-  <a href="https://github.com/oki333ed/Kernel/pulls"><img alt="GitHub Pull Requests - Closed" src="https://img.shields.io/github/issues-pr-closed/HJfod/BetterEdit?style=flat-square" /></a>
+  <a href="https://github.com/oki333ed/Kernel/pulls"><img alt="GitHub Pull Requests - Open" src="https://img.shields.io/github/issues-pr/oki333ed/Kernel?style=flat-square" /></a>
+  <a href="https://github.com/oki333ed/Kernel/pulls"><img alt="GitHub Pull Requests - Closed" src="https://img.shields.io/github/issues-pr-closed/oki333ed/Kernel?style=flat-square" /></a>
   &ensp;&macr;&ensp;
-  <a href="https://github.com/oki333ed/Kernel/actions/workflows/build.yml"><img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/HJFod/BetterEdit/build.yml?style=flat-square" /></a>
+  <a href="https://github.com/oki333ed/Kernel/actions/workflows/build.yml"><img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/oki333ed/Kernel/build.yml?style=flat-square" /></a>
 </span>
 
 <br>
