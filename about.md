@@ -1,4 +1,4 @@
-# <c-11f917>K</c><c-12f534>e</c><c-13f348>r</c><c-14f155>n</c><c-14ef67>n</c><c-15ed76>e</c>l
+# <c-11f917>K</c><c-12f534>e</c><c-13f348>r</c><c-14f155>n</c><c-14ef67>e</c><c-15ed76>l</c>
 
 The ultimate editor improvement mod. Adds a ton of <cp>utilities</c> and <cj>improvements</c> to the level editor, such as <cd>redesigned menus</c>, <cp>bug fixes</c>, <ca>keybinds</c>, and more!
 
