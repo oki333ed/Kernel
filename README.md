@@ -2,7 +2,7 @@
 
 > [!WARNING]
 > **Kernel** is a fork of legendary **[BetterEdit](https://github.com/HJfod/BetterEdit)**
-> You can support HJFod (Original **BetterEdit** author on [Ko-Fi](https://ko-fi.com/hjfod)!
+> You can support HJFod (Original **BetterEdit** author) on [Ko-Fi](https://ko-fi.com/hjfod)!
 
 <span>
   <a href="LICENSE"><img alt="License Badge" src="https://img.shields.io/github/license/oki333ed/Kernel?label=license&style=flat-square" /></a>
