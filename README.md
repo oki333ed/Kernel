@@ -7,7 +7,7 @@
 <span>
   <a href="LICENSE"><img alt="License Badge" src="https://img.shields.io/github/license/oki333ed/Kernel?label=license&style=flat-square" /></a>
   &ensp;&macr;&ensp;
-  <a href="https://github.com/oki333ed/Kernel/issues"><img alt="GitHub Issues - Open" src="https://img.shields.io/github/issues/HJfod/Kernel?style=flat-square" /></a>
+  <a href="https://github.com/oki333ed/Kernel/issues"><img alt="GitHub Issues - Open" src="https://img.shields.io/github/issues/oki333ed/Kernel?style=flat-square" /></a>
   <a href="https://github.com/oki333ed/Kernel/issues"><img alt="GitHub Issues - Closed" src="https://img.shields.io/github/issues-closed/oki333ed/Kernel?style=flat-square" /></a>
   &ensp;&macr;&ensp;
   <a href="https://github.com/oki333ed/Kernel/pulls"><img alt="GitHub Pull Requests - Open" src="https://img.shields.io/github/issues-pr/oki333ed/Kernel?style=flat-square" /></a>
