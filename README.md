@@ -24,10 +24,10 @@ A mod that makes the <a href="https://store.steampowered.com/app/322170/Geometry
 
 **Kernel needs the following mods to also be installed:**
 
- * [NodeIDs](https://geode-sdk.org/mods/geode.node-ids)
+ * [Node IDs](https://geode-sdk.org/mods/geode.node-ids)
  * [GMD API](https://geode-sdk.org/mods/hjfod.gmd-api)
- * [Level ID API](https://geode-sdk.org/mods/cvolton.level-id-api)
- * [Editor Tab API](https://geode-sdk.org/mods/alphalaneous.editortab_api)
+ * [EditorLevel ID API](https://geode-sdk.org/mods/cvolton.level-id-api)
+ * [EditorTab API](https://geode-sdk.org/mods/alphalaneous.editortab_api)
 
 ## :beetle: Bug reports & feature suggestions
 
